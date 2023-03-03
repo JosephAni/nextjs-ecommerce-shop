@@ -13,7 +13,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [https://nextjs-ecommerce-shop-lovat.vercel.app/]with your browser to see the result.
+Open [https://nextjs-ecommerce-shop-lovat.vercel.app]with your browser to see the result.
 
 ## Nextjs-ecommerce-shop
 
