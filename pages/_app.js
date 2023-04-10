@@ -16,7 +16,7 @@ export default function App({ Component, pageProps }) {
       currency='USD'
       // Only customers from UK will be able to purchase
       // Having this setting means that we will capture shipping address
-      allowedCountries={['USD', 'AU', 'GB', 'CAD']}
+      allowedCountries={['USD']}
       // Enables local storage
       shouldPersist={true}
     >
